@@ -30,5 +30,6 @@ public static void main(String args[]){
 
 }
 /**
+ * Q:Java Program to Find the Duplicate Characters from a String and Count its Occurrence 
  {a=3, b=3, c=3, d=3, e=2}
  */
